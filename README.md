@@ -1,5 +1,9 @@
 # Todolist_app
 
+In this project users can add daily task and users can filter task by date and user can also edit and delete expenses. It is built by using React JS .
+
+HTML 5, JavaScript, CSS 3,React JS, Node JS, Express JS, Mongo DB( Rest API), Postman.
+
 
 
 # To Intial Project
