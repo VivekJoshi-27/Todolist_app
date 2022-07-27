@@ -1,0 +1,51 @@
+.navbtn button{
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    
+}
+
+.navbar button{
+  height: 35px;
+}
+
+.navbar{
+    display: grid;
+    grid-template-columns: 1fr 5fr 1fr;
+    margin-bottom: 40px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+h2{
+    text-align: center;
+}
+
+.catecont{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.cateRow{
+    display: grid;
+    grid-template-columns:0.3fr 3fr 0.2fr;
+    justify-content: center;
+    align-items: center;
+    background: #E0C3FC;
+    box-shadow: 0px 0px 3px 0px rgb(12, 12, 12);
+    border-radius: 7px;
+    margin-bottom: 10px;
+    padding: 15px 7px;
+}
+
+.tasks{
+    border: none;
+    background-color: transparent;
+    height: 10px;
+    padding: 0;
+}
+
+.nme button:hover{
+    color: blue;
+
+}

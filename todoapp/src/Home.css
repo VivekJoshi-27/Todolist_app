@@ -1,0 +1,12 @@
+.backg{
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    height: 100vh;
+}
+
+.clock{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-decoration: underline;
+    font-size: 1.3rem;
+}

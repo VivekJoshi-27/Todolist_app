@@ -1,0 +1,49 @@
+
+.container{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 5px;
+}
+
+.addform{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.addbtn{
+    margin-top: 4px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.addbtn input{
+    border: none;
+    width: 80px;
+    height: 30px;
+    border-radius: 7px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 1rem;
+    cursor: pointer;
+}
+.catname input{
+    height: 30px;
+    border-radius: 5px;
+    outline: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+
+}
+.cbtn{
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    cursor: pointer;
+
+}

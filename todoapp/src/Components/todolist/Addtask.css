@@ -1,0 +1,10 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+.navbtn {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    
+}
