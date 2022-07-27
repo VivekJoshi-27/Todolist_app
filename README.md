@@ -20,7 +20,7 @@ For Frontend
 
 -npm start
 
-# Output Scrrens :-
+# Output Screens :-
 
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/106462901/181192541-b3f6100e-5054-4217-8e74-c2261331d349.png)
