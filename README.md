@@ -1,6 +1,6 @@
 # Todolist_app
 
-In this project users can add daily task and users can filter task by date and user can also edit and delete expenses. It is built by using React JS .
+In this project users can add daily task. It is popup /modal where user can enter task name choose date and time and select category from the drop-down. The Drop-down disply only those categories which are present on the categories. It is built by using React JS .
 
 HTML 5, JavaScript, CSS 3,React JS, Node JS, Express JS, Mongo DB( Rest API), Postman.
 
