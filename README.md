@@ -5,24 +5,36 @@ In this project users can add daily task. It is popup /modal where user can ente
 HTML 5, JavaScript, CSS 3,React JS, Node JS, Express JS, Mongo DB( Rest API), Postman.
 
 
+### Tools used
 
-# To Intial Project
+- React
+- Axios
+- MongoDB
+- Usestate & UseNavigate
+- Css (grid & flexbox)
+- Media queries
+- JS
 
-For Backend
+### Runing Project Locally
 
--cd backend
+- Install dependencies: 
 
--npm i
+- For Backend
 
--npm run server
+cd backend
 
-For Frontend
+npm i
 
--cd todoapp
+`npm run server`
 
--npm i
 
--npm start
+- For Frontend
+
+cd todoapp
+
+npm i
+
+`npm start`
 
 # Output Screens :-
 
